@@ -57,6 +57,7 @@ h6 {
 p {
   text-wrap: pretty;
 }
+
 h1,
 h2,
 h3,
@@ -82,4 +83,8 @@ h6 {
 
 html {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+#email:invalid {
+  border: 2px solid red;
 }
